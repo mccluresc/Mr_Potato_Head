@@ -27,12 +27,15 @@ h1 {
 
 
 /* Insert CSS for ears below this line*/
-
-
-
-
+#ears_image {
+  top: 103px;
+  left:59px;
+}
 /* Insert CSS for eyes below this line*/
-
+#eyes_image{
+  top:85px;
+  left:130px;
+}
 
 
 
@@ -50,7 +53,10 @@ h1 {
 
 
 /* Insert CSS for eyebrows below this line*/
-
+#eyebrows_image{
+  top:50px;
+  left:110px;
+}
 
 
 
@@ -61,7 +67,9 @@ h1 {
 
 /* Insert CSS for hat below this line*/
 
-
+#hat_image {
+  left:95px;
+}
 
 
 /* Insert CSS for arms below this line*/
