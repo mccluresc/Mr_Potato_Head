@@ -64,7 +64,9 @@ h1 {
 
 /* Insert CSS for hat below this line*/
 
-
+#hat_image {
+  left:95px;
+}
 
 
 /* Insert CSS for arms below this line*/
