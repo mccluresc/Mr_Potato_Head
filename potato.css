@@ -37,7 +37,10 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
-
+#mouth_image {
+  bottom:210px;
+  right:130px;
+}
 
 
 
@@ -67,7 +70,10 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
+#moustache_image {
+  bottom:250px;
+  left:90px;
+}
 
 
 
